@@ -2,8 +2,7 @@
     "plugins": ["autocover"],
     "pluginsConfig": {
         "autocover": {
-            {
-    "title": "PR и журналистика в IT: проблемы взаимоотношений",
+            "title": "PR и журналистика в IT: проблемы взаимоотношений",
     "author": "DesT",
     "font": {
         "size": null,
@@ -17,7 +16,6 @@
     "background": {
         "color": "#09F"
     }
-}
         }
     }
 }
